@@ -1,0 +1,22 @@
+# files written during lecture
+lec.ml
+
+# ocaml
+*.cmo
+*.cma
+*.cmi
+*.out
+*.cmx
+*.native
+*.byte
+_build
+
+# coq
+*.vo
+*.glob
+
+# temporary files
+*.swp
+*~
+\#*\#
+.DS_Store
