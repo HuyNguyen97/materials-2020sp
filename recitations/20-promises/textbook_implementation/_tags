@@ -1,0 +1,2 @@
+"async_write_demo.ml" : package(lwt)
+true: package(lwt), package(lwt.unix)
